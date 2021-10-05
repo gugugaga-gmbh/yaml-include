@@ -1,0 +1,3 @@
+---
+two:
+    $ref: "two.yaml"

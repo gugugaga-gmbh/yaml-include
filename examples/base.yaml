@@ -1,0 +1,2 @@
+---
+files: !include {pathname: files/*.yaml, recursive: true}
